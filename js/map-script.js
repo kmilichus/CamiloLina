@@ -14,8 +14,8 @@
 		//DEFINE MAP OPTIONS
 		//=======================================================================================
   		var mapOptions = {
-    		zoom: 18,		
-			mapTypeId: google.maps.MapTypeId.ROADMAP,	
+    		zoom: 18,
+			mapTypeId: google.maps.MapTypeId.ROADMAP,
     		center: new google.maps.LatLng(3.3493176, -76.5157189),
 			panControl: true,
   			zoomControl: true,
